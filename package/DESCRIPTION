@@ -1,0 +1,13 @@
+Package: container
+Type: Package
+Title: Manage container objects for Datasets and Models.
+Version: 1.0
+Date: 2012-04-22
+Author: Graham Williams (togaware)
+Maintainer: Graham Williams <Graham.Williams@togaware.com>
+Description: A container is implemented as a reference class to 
+	     contain a dataset and its meta data or a
+	     model and its meta data.
+License: GPL (>= 3)
+Depends: rattle
+Suggests: rpart
